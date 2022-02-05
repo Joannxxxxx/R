@@ -1,7 +1,7 @@
 * aesthetics 美学
 * geoms 几何学
 * Cartesian coordinate，笛卡尔坐标系，也称直角坐标系、正交坐标系。  
-  Q:为什么不叫 Descartes coordinate ？
+  Q:为什么不叫 Descartes coordinate ？  
   A:https://www.codenong.com/cs107130820/
   * 衍化主线：Descartes —— Cartes —— Cartesius —— Cartesian
   * 1.笛卡尔（勒内·笛卡尔，1596年3月31日—1650年2月11日），法语：René Descartes。出生于法国，毕业于普瓦捷大学，法国著名哲学家、物理学家、数学家，被黑格尔称为“近代哲学之父”。
