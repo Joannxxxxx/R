@@ -13,7 +13,10 @@
 * 箱线图 boxplot
 #### 图的说明部分
 * spine
-* x axes
-* y axes
+* axes : x y
+  * lim
+  * ticks
+  * text
+  * label
 * title
 * legend
