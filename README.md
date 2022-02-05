@@ -14,9 +14,9 @@
 #### 图的说明部分
 * spine
 * axes : x y
-  * lim
+  * lim:xlim(),ylim()
   * ticks
   * text
-  * label
-* title
+  * label:xlab(),ylab()--------------labs()
+* title:ggtitle()--------------------labs()
 * legend
