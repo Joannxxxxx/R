@@ -23,3 +23,9 @@
   * position:legend.position
   * title:legend.title
   * text:legend.text
+#### aesthetic 元素
+* color
+* size
+* shape
+* fill
+* stroke
