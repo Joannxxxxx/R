@@ -20,6 +20,6 @@
   * label:xlab(),ylab()--------------labs()
 * title:ggtitle()--------------------labs()
 * legend:theme()
-  * position:legend.position()
-  * title:legend.title()
-  * text:legend.text()
+  * position:legend.position
+  * title:legend.title
+  * text:legend.text
