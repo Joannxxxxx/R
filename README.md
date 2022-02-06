@@ -19,4 +19,7 @@
   * text
   * label:xlab(),ylab()--------------labs()
 * title:ggtitle()--------------------labs()
-* legend
+* legend:theme()
+  * position:legend.position()
+  * title:legend.title()
+  * text:legend.text()
